@@ -6,7 +6,7 @@
   "author": "PikachuEXE",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^15.3.1"
+    "electron": "^16.0.2"
   },
   "scripts": {
     "start": "electron ."
